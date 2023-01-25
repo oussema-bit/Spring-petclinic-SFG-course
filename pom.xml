@@ -96,7 +96,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/oussema-bit/Spring-petclinic-SFG-course.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:oussema-bit/Spring-petclinic-SFG-course.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
